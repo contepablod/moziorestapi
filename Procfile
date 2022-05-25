@@ -1,0 +1,1 @@
+web: gunicorn MozioRestAPI.wsgi --log-file -
