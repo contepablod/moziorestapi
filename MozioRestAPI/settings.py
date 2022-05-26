@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-4(yc%fh@e!t*livs=%797e-vr+u@e$@c6t1_%yw-l7yembn(&$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://moziorestapi.herokuapp.com/']
+ALLOWED_HOSTS = ['moziorestapi.herokuapp.com']
 
 
 # Application definition
